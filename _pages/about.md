@@ -12,13 +12,13 @@ I am a Master's Student in VLSI and Microelectronics, Department of Electrical E
 
 Education
 ======
-* Master's in VLSI Design and Microelectronics, Electrical Engineering from IIT Gandhinagar
-* Bachelor's in Electronics and Telecommunication Engineering from IGIT Sarang, BPUT, Odisha
+* **Master's in VLSI Design and Microelectronics,** Electrical Engineering from IIT Gandhinagar
+* **Bachelor's in Electronics and Telecommunication Engineering** from IGIT Sarang, BPUT, Odisha
 
 Skills
 ======
-* Tools: Cadence Virtuoso, Cadence Liberate, Calibre, QuestaSim, Design Compiler, Innovus, Xilinx Vivado, Sentaurus TCAD, MATLAB Simulink
-* Programming/Scripting Languages: Verilog, VHDL, SystemVerilog, SKILL, C++
+* **Tools:** Cadence Virtuoso, Cadence Liberate, Calibre, QuestaSim, Design Compiler, Innovus, Xilinx Vivado, Sentaurus TCAD, MATLAB Simulink
+* **Programming/Scripting Languages:** Verilog, VHDL, SystemVerilog, SKILL, C++
 
 Courses Done
 ======
