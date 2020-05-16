@@ -1,5 +1,8 @@
 ---
 permalink: /
+
+[CV in PDF Format](/files/cv.pdf){: .share-button}
+
 title: "About Me"
 excerpt: "About me"
 author_profile: true
@@ -7,8 +10,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-[CV in PDF Format](/files/cv.pdf){: .share-button}
 
 I am a Master's Student in VLSI and Microelectronics, Department of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working under Dr. Nihar Ranjan Mohapatra. I am currently working in the area of Power Management ICs.
 
