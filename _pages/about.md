@@ -31,4 +31,4 @@ Courses Done
 * IC Design Lab
 * Microelectronics Lab
 
-[CV in PDF Format](/files/cv.pdf){: .share-button}
+[Click here for CV in PDF Format](/files/cv.pdf){: .share-button}
