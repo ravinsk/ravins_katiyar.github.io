@@ -1,8 +1,5 @@
 ---
 permalink: /
-
-[CV in PDF Format](/files/cv.pdf){: .share-button}
-
 title: "About Me"
 excerpt: "About me"
 author_profile: true
@@ -33,3 +30,5 @@ Courses Done
 * Electronic Instrumentation
 * IC Design Lab
 * Microelectronics Lab
+
+[CV in PDF Format](/files/cv.pdf){: .share-button}
