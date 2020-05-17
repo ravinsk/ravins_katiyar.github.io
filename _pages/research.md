@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Research Work"
+title: "Power Management IC (PMIC)"
 permalink: /research/
 author_profile: true
 ---
 
-On-chip Power Management IC
+On-chip Implementation
 ======
 * Designing a full on-chip Low-Drop Out (LDO) Regulator for biomedical applications
 * Designing Switching DC-DC Converter and Control Techniques (Buck-Boost Converter) for ASICs
