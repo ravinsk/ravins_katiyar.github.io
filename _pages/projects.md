@@ -5,27 +5,18 @@ permalink: /projects/
 author_profile: true
 ---
 
-I am a Master's Student in VLSI and Microelectronics, Department of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working under Dr. Nihar Ranjan Mohapatra. I am currently working in the area of Power Management ICs.
-
-Education
+Single and Double stage Op-Amps (schematic to layout)
 ======
-* **Master's in VLSI Design and Microelectronics,** Electrical Engineering from IIT Gandhinagar
-* **Bachelor's in Electronics and Telecommunication Engineering** from IGIT Sarang, BPUT, Odisha
+* Designed and implemented low-power and high speed Op-Amps in 180nm technology using Cadence Virtuoso adhering to the specified design constraint parameters like gain, bandwidth, voltage swing etc.
 
-Skills
+Bandgap Reference Circuit (schematic to layout)
 ======
-* **Tools:** Cadence Virtuoso, Cadence Liberate, Calibre, QuestaSim, Design Compiler, Innovus, Xilinx Vivado, Sentaurus TCAD, MATLAB Simulink
-* **Programming/Scripting Languages:** Verilog, VHDL, SystemVerilog, SKILL, C++
+* Implemented Op-Amp based Beta - multiplier BGR Circuit in 180nm technology node using Cadence Virtuoso
 
-Courses Done
+Study and implementation of Robust Clock Networks
 ======
-* Analog CMOS IC Design
-* VLSI Design
-* Microfabrication
-* Nanoscale Device Engineering
-* Physics of Transistors
-* Electronic Instrumentation
-* IC Design Lab
-* Microelectronics Lab
+* Simulated both un-buffered and buffered robust clock networks in sub-threshold and threshold regimes in Cadence Virtuoso UMC 65nm technology node
 
-[Click here for CV in PDF Format](/files/cv.pdf){: .share-button}
+Industrial Automation
+======
+* Implemented multi-sensor based hardware of Industrial Automation using Arduino Uno and various sensors like Ultrasonic, IR, Moisture, Temperature Sensor and LDR
