@@ -30,5 +30,3 @@ Courses Done
 * Electronic Instrumentation
 * IC Design Lab
 * Microelectronics Lab
-
-[Click here for CV in PDF Format](/files/cv.pdf){: .share-button}
