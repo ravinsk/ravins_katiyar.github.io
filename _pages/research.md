@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Research Work"
-excerpt: "Research Work"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 I am a Master's Student in VLSI and Microelectronics, Department of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working under Dr. Nihar Ranjan Mohapatra. I am currently working in the area of Power Management ICs.
