@@ -1,11 +1,18 @@
 ---
 layout: archive
-title: "Work Experience"
+title: "Teaching"
 permalink: /experience/
 author_profile: true
 ---
 
-Teaching
+Part-Time Teaching
+======
+* **June 2015 - January 2017: Guest Faculty and Lab Instructor**
+  * Orissa Institute of Engineering and Technology, Dhenkanal
+  * Course: **Analog Electronics, Network Theory, Signals and Systems and Analog Lab**
+  * Company Profile: Academic Institution
+
+Teaching assistantship
 ======
 * **Spring 2020: Teaching Assistant**
   * IIT Gandhinagar
