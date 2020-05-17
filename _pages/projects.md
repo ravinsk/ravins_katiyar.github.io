@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Projects"
+title: "VLSI Design and Embedded System Projects"
 permalink: /projects/
 author_profile: true
 ---
