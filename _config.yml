@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rakesh Kumar Pothal"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Rakesh Kumar Pothal"
+name                     : &name "J Sujatha"
 description              : &description "personal description"
-url                      : https://the-rkp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://suja2485.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "the-rkp/the-rkp.github.io"
+repository               : "suja2485/suja2485.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rakesh Kumar Pothal"
-  avatar           : "RakeshKP.jpg"
+  name             : "J Sujatha"
+  avatar           : "Sujatha.jpg"
   bio              : "Master's in VLSI Design at <a href='https://www.iitgn.ac.in/'>IIT Gandhinagar</a>"
-  location         : "nanoDC Lab, AB5/207, IITGN"
+  location         : "HPC Lab, AB5/206, IITGN"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "rakesh.pothal@iitgn.ac.in"
+  email            : "sujatha.j@iitgn.ac.in"
   researchgate     :
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "rk-pothal/"
+  linkedin         : "j-sujatha-250596/"
   orcid            :
   pinterest        :
   soundcloud       :
