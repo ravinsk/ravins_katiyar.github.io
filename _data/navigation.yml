@@ -1,10 +1,16 @@
 # main links
 main:
+  - title: "Publications"
+    url: /public/
+  
   - title: "Research Work"
     url: /research/
 
-  - title: "My Projects"
+  - title: "Projects"
     url: /projects/    
     
-  - title: "Work Experience"
+  - title: "Voluntary Work"
     url: /experience/
+
+  - title: "Certifications and Achievements"
+    url: /achievements/
