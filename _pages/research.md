@@ -7,24 +7,16 @@ author_profile: true
 
 Problem Statement
 ======
-* Designing a full on-chip Low-Drop Out (LDO) Regulator for biomedical applications
-* Designing Switching DC-DC Converter and Control Techniques (Buck-Boost Converter) for ASICs
-* Extending work to Advanced Topics in PMIC (Digitally controlled LDO, Single-Inductor Multiple-Output (SIMO) Converter)
+* xx
 
 Dataset Generation
 ======
-* Designing a full on-chip Low-Drop Out (LDO) Regulator for biomedical applications
-* Designing Switching DC-DC Converter and Control Techniques (Buck-Boost Converter) for ASICs
-* Extending work to Advanced Topics in PMIC (Digitally controlled LDO, Single-Inductor Multiple-Output (SIMO) Converter)
+* xx
 
 Building and Tuning MLP
 ======
-* Designing a full on-chip Low-Drop Out (LDO) Regulator for biomedical applications
-* Designing Switching DC-DC Converter and Control Techniques (Buck-Boost Converter) for ASICs
-* Extending work to Advanced Topics in PMIC (Digitally controlled LDO, Single-Inductor Multiple-Output (SIMO) Converter)
+* xx
 
 Inverse Design
 ======
-* Designing a full on-chip Low-Drop Out (LDO) Regulator for biomedical applications
-* Designing Switching DC-DC Converter and Control Techniques (Buck-Boost Converter) for ASICs
-* Extending work to Advanced Topics in PMIC (Digitally controlled LDO, Single-Inductor Multiple-Output (SIMO) Converter)
+* xx
