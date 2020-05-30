@@ -39,3 +39,10 @@ Mentorship
 * Institution: IIT Gandhinagar
 * Course: **High School Level English**
 * Profile: Mentor
+
+Membership
+======
+
+* Organization: Chess Club, BIT Durg
+* Activity: Intra and Inter-College level **Chess** Tournaments
+* Profile: Organizer
