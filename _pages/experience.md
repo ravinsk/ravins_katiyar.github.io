@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Voluntary Work"
 permalink: /experience/
 author_profile: true
 ---
@@ -8,19 +8,27 @@ author_profile: true
 Teaching assistantship
 ======
 
-* IIT Gandhinagar
+* Institution: IIT Gandhinagar
 * Course: **Basic Electrical and Electronics**
 * Supervisor: Dr. Naran M Pindoria
+
+Freelance
+======
+
+* Organization: Toppr
+* Course: **Arduino** and **Office Applications**
+* Profile: E-tutor
 
 Internship
 ======
 
-* IIT Gandhinagar
-* Organization: **NEEV**
+* Organization: **NEEV,** IIT Gandhinagar
+* Profile: Summer Intern
 * Coordinator: Mrs. Soumya Harish
 
 Mentorship
 ======
 
-* IIT Gandhinagar
-* Subject: **High School Level English**
+* Institution: IIT Gandhinagar
+* Course: **High School Level English**
+* Profile: Mentor
