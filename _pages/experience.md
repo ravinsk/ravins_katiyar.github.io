@@ -19,6 +19,13 @@ Freelance
 * Course: **Arduino** and **Office Applications**
 * Profile: E-tutor
 
+Tutorship
+======
+
+* Organization: Drone Society, IIT Gandhinagar
+* Subject: **ROS**, **Image Processing** and **Embedded Systems**
+* Coordinator: Mr. Ajay Kumar Ucheniya
+
 Internship
 ======
 
