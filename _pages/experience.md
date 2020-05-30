@@ -22,8 +22,8 @@ Freelance
 Internship
 ======
 
-* Organization: **NEEV,** IIT Gandhinagar
-* Profile: Summer Intern
+* Organization: NEEV, IIT Gandhinagar
+* Profile: Summer Intern (Worked in **Office** and **Canva**)
 * Coordinator: Mrs. Soumya Harish
 
 Mentorship
