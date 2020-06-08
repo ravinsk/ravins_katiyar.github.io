@@ -7,16 +7,4 @@ author_profile: true
 
 Problem Statement
 ======
-* xx
-
-Dataset Generation
-======
-* xx
-
-Building and Tuning MLP
-======
-* xx
-
-Inverse Design
-======
-* xx
+* Will be updated soon...
