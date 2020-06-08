@@ -5,7 +5,7 @@ permalink: /achievements/
 author_profile: true
 ---
 
-Certification
+Certifications
 ======
 
 * Deep Learning with Keras by Jerry Kurata
