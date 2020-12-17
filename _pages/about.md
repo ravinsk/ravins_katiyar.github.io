@@ -33,4 +33,4 @@ Courses Done
 * IC Design Lab
 * Microelectronics Lab
 * Advanced numerical methods
-*<a href= 'https://nanohub.org/members/287190/courses'> Online Courses </a> 
+* <a href= 'https://nanohub.org/members/287190/courses'> Online Courses </a> 
