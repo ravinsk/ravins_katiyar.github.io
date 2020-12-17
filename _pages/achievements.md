@@ -8,16 +8,11 @@ author_profile: true
 Certifications
 ======
 
-* Deep Learning with Keras by Jerry Kurata
-* Understanding the basics of Machine Learning
-* Introduction to Machine Learning
-* Understanding the basics of Code
+* Learning Silvaco for semiconductor simulation
+* Live webinar of IEEE how to publish a high quality techinical journal paper
 
 Achievements
 ======
 
-* Topper of 2014-18 batch EEE Dept., BIT Durg
-* Runner in Caliber "de-en-quete", IIT (BHU) Varanasi
-* SEWA Scholarship holder
-* Titled as "Nrityashree" in India Theatre Olympiad, International Theatre Festival
-* Jamshedpur Theatre Award, AAAJ, Tatanagar
+* 59 rank in Indian Engineering Olympiad
+* University Scholarship holder
