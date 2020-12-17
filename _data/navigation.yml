@@ -1,0 +1,32 @@
+
+# main links
+main:
+  - title: "Publications"
+    url: /public/
+  
+  - title: "Research Work"
+    url: /research/
+
+  - title: "Projects"
+    url: /projects/    
+    
+  - title: "Experiences"
+    url: /experience/
+
+  - title: "Certifications and Achievements"
+    url: /achievements/
+    
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Conference"
+    url: /conference/
+    
+  - title: "Presentations"
+    url: /presentations/
+    
+  - title: "Photo Gallery"
+    url: /gallery/
+    
+  - title: "Colloborators"
+    url: /colloborators/
