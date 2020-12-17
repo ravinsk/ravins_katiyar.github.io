@@ -17,7 +17,7 @@ Education
 
 Skills
 ======
-* **Tools:** Cadence Virtuoso, Calibre, QuestaSim, Design Compiler, Innovus, Xilinx Vivado, Sentaurus TCAD, Sentaurus 3DTCAD, MATLAB Simulink, 
+* **Tools:** Cadence Virtuoso, Calibre, QuestaSim, Design Compiler, Innovus, Xilinx Vivado, Sentaurus TCAD, Sentaurus 3D TCAD, MATLAB Simulink, 
 * **Programming/Scripting Languages:** Verilog, VHDL, SystemVerilog, SKILL, C, Python, Ocean, Pcell
 
 Courses Done
@@ -33,4 +33,4 @@ Courses Done
 * IC Design Lab
 * Microelectronics Lab
 * Advanced numerical methods
-* Online Courses <a href= 'https://nanohub.org/members/287190/courses'> 
+*<a href= 'https://nanohub.org/members/287190/courses'> Online Courses </a> 
