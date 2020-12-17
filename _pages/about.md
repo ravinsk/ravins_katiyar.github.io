@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's Student in VLSI and Microelectronics, Department of Electrical Engineering at <a href='https://legacy.iitgn.ac.in/hpc/hpc-lab.html'>High Performance Computing</a> Lab, IIT Gandhinagar working under <a href='https://www.iitgn.ac.in/faculty/ee/fac-ravi'>Dr. Ravi S Hegde</a>. I am currently working in the field of Deep Learning.
+I am a Master's Student in VLSI and Microelectronics, Department of Electrical Engineering at <a href='http://sites.iitgn.ac.in/labs/nanodc/index.php'> nanoDC Lab</a> Lab, IIT Gandhinagar working under <a href='https://iitgn.ac.in/faculty/ee/fac-nihar'>Prof. Nihar R. Mohapatra</a>. I am currently working in the field of Process Integration of semiconductor devices and doing semiconductor device layouts
 
 Education
 ======
 * **Master's in VLSI Design,** Electrical Engineering from Indian Institute of Technology, Gandhinagar
-* **Bachelor's in Electrical and Electronics Engineering** from Bhilai Institute of Technology, Durg, Chhattisgarh
+* **Bachelor's in Electronics and Communication Engineering** from <a href='http://www.uietkanpur.com/'> U.I.E.T. C.S.J.M. University, Kanpur, UttarPradesh 
 
 Skills
 ======
-* **Tools:** Cadence Virtuoso, Cadence Liberate, Calibre, QuestaSim, Design Compiler, Innovus, Xilinx Vivado, Sentaurus TCAD, MATLAB Simulink
-* **Programming/Scripting Languages:** Verilog, VHDL, SystemVerilog, SKILL, C, Python
+* **Tools:** Cadence Virtuoso, Calibre, QuestaSim, Design Compiler, Innovus, Xilinx Vivado, Sentaurus TCAD, Sentaurus 3DTCAD, MATLAB Simulink, 
+* **Programming/Scripting Languages:** Verilog, VHDL, SystemVerilog, SKILL, C, Python, Ocean, Pcell
 
 Courses Done
 ======
@@ -27,9 +27,10 @@ Courses Done
 * Microfabrication
 * Nanoscale Device Engineering
 * Physics of Transistors
-* Electronic Instrumentation
+* Physics of 2D Materials
+* Digital Control Systems
 * Advanced Signal Processing
 * IC Design Lab
 * Microelectronics Lab
-* Electrical Systems Lab
-* Electrical and Electronics Lab
+* Advanced numerical methods
+* Online Courses<a href= 'https://nanohub.org/members/287190/courses'> 
