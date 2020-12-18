@@ -29,7 +29,6 @@ Courses Done
 * Physics of Transistors
 * Physics of 2D Materials
 * Digital Control Systems
-* Advanced Signal Processing
 * IC Design Lab
 * Microelectronics Lab
 * Advanced numerical methods
