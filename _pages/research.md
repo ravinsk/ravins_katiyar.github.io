@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Application of DNN to DSE of Interconnects"
+title: "Process Integration"
 permalink: /research/
 author_profile: true
 ---
 
 Problem Statement
 ======
-* Will be updated soon...
+* Developing a novel silicon based BICMOS process for Bipolar Junction Transistor having very few additional simple process steps along with CMOS fabrication
