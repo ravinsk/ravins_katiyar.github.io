@@ -1,9 +1,6 @@
 
 # main links
 main:
-  - title: "Publications"
-    url: /public/
-  
   - title: "Research Work"
     url: /research/
 
