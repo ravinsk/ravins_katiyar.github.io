@@ -39,25 +39,30 @@ Single  stage  Folded-cascode  Opamp  design  with  the  single  ended output
 
 Gm-Cc Low Pass Filter Design
 ======
-* Designed a single ended folded cascode opamp with VDD= 1.8V, Gain= 92dB, CMRR = 100dB, ICMR = 0.2-0.4V, Voltage Swing = 0.5V,PSRR+ = 80dB, PSRR- = 80dB, Power = 20uW, and GBW = 1MHz.Design was carried out inSCL 180nmTechnology Node.
+* Designed a Gm-Cc Low Pass Filter using folded-cascode opamp with Gain = 0.8-1V/V, F3dB= 1KHz, Power Budget = 100uW, VDD= 1.8V,ICMR = 0.2V- 0.4V. Design was       carried out in SCL 180nm Technology Node.
 
-Single  stage  Folded-cascode  Opamp  design  with  the  single  ended output
+Level Shifter Design
 ======
-* Designed a single ended folded cascode opamp with VDD= 1.8V, Gain= 92dB, CMRR = 100dB, ICMR = 0.2-0.4V, Voltage Swing = 0.5V,PSRR+ = 80dB, PSRR- = 80dB, Power =   20uW, and GBW = 1MHz.Design was carried out in SCL 180nm Technology Node
+* Designed  a  Level  shifter  for  a  multi-supply  application. The  design converted minimum of 0.1V input signal into 1V output signal.  The level shifter had   a propagation delay of 10.99ns and power dissipation of 1.52nW. The operating condition was VDDL= 0.2V, VDDH= 1V.
 
-Single  stage  Folded-cascode  Opamp  design  with  the  single  ended output
+Process integration of double poly BJT for RF applications in Sentaurus TCAD
 ======
-* Designed a single ended folded cascode opamp with VDD= 1.8V, Gain= 92dB, CMRR = 100dB, ICMR = 0.2-0.4V, Voltage Swing = 0.5V,PSRR+ = 80dB, PSRR- = 80dB, Power =   20uW, and GBW = 1MHz.Design was carried out in SCL 180nm Technology Node
+* Developing a novel silicon based BICMOS process for Bipolar Junction Transistor having very few additional simple process steps along with CMOS fabrication
+* Working on modification in doping profile and geometry of transistor to get better Ft, Fmax, VA and breakdown voltages compared to the state-of-the-art of Si-     based BJT, which  are important figure merits of transistor for RF applications
 
-Single  stage  Folded-cascode  Opamp  design  with  the  single  ended output
+Calibration of electrical parameter of single poly BJT
 ======
-* Designed a single ended folded cascode opamp with VDD= 1.8V, Gain= 92dB, CMRR = 100dB, ICMR = 0.2-0.4V, Voltage Swing = 0.5V,PSRR+ = 80dB, PSRR- = 80dB, Power =   20uW, and GBW = 1MHz.Design was carried out in SCL 180nm Technology Node
+* Done calibration of electrical parameter for silicon and poly-silicon ofsingle poly BJT from the measured data of fabricated devices, using those parameters in   electrical characterization of double poly BJT
 
-Single  stage  Folded-cascode  Opamp  design  with  the  single  ended output
+Device layouts of single poly BJT
 ======
-* Designed a single ended folded cascode opamp with VDD= 1.8V, Gain= 92dB, CMRR = 100dB, ICMR = 0.2-0.4V, Voltage Swing = 0.5V,PSRR+ = 80dB, PSRR- = 80dB, Power =   20uW, and GBW = 1MHz.Design was carried out in SCL 180nm Technology Node
+* Done layouts of Single poly BJT including DC and RF pads and some test structures of C-B, E-B diode to measure the junction capacitance
 
 
-Industrial Automation
+Process Integration of CMOS in Sentaurus TCAD
 ======
-* Implemented multi-sensor based hardware of Industrial Automation using Arduino Uno and various sensors like Ultrasonic, IR, Moisture, Temperature Sensor and LDR
+* I have done the calibration of 3.3V MOS device from measure data of Fabricated device of different-different gate length from SCL laboratory
+
+Technological and Social Innovation in Irrigation
+======
+* I had developed fully automated system to monitor moisture, humidity, temprature and sprinkler speed. GSM module was used for monitoring and controling.
