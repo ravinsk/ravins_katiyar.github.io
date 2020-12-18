@@ -5,9 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-5-stage Pipeline Processor
+2-stage Pipeline Processor
 ======
-* Designed a 5 stage pipelined-processor (Fetch, Decode, Execute, Memory Access and Write Back) which contains 16 32-bits width register and an instruction set of width 16-bits
+* Designed a 2 stage pipelined-processor (Fetch, Decode, Execute, Memory Access and Write Back) which contains 16 32-bits width register and an instruction set of width 16-bits
 
 In-Memory Boolean Computations in CMOS SRAM
 ======
@@ -17,25 +17,46 @@ In-Memory Boolean Computations in CMOS SRAM
 ======
 * Designed layout of 4x4 Memory Arrays using 6-T and 8-T SRAM Cells in Cadence Virtuoso and performed DRC, LVS and PEX
 
-Elevator Controller
+3x3 NOC Router
 ======
-* Coded an elevator in Verilog and studied the functionality in Xilinx Vivado
+* Coded an Arbiter FIFO and various Module of NOC Router in Verilog and studied the functionality in Xilinx Vivado
 
 Synchronous FIFO
 ======
 * Implemented a parameterized synthesizable synchronous FIFO in Verilog with read and write control in Xilinx Vivado
 
-Noise Cancelling FIR Filter
+Current Mirror based Band-gap Reference Circuit Design
 ======
-* Designed a noise cancelling direct and transpose form FIR Filter using LMS Algorithm in VHDL in Xilinx Vivado
+* A first order Current Mirror based BGR was designed using 0.18umCMOS  technology  with  a  supply  voltage  of  1.8V  to  achieve  a  pre-cise output voltage     reference of 1.12V at 27◦C room temperature andachieve 0.2ppm/◦C of low temperature coefficient with temperaturerange of -40◦C to 125◦C.
 
-Study and implementation of Robust Clock Networks
+High Impedance Current Mirror Design
 ======
-* Simulated both un-buffered and buffered robust clock networks in sub-threshold and threshold regimes in Cadence Virtuoso UMC 65nm technology node
+* Designed a circuit that offered a very high impedance due to the pres-ence of the PMOS at both legs since no auxiliary biasing circuit wasused. It can be used     for applications which operate with very low current.
 
-Bandgap Reference Circuit (schematic to layout)
+Single  stage  Folded-cascode  Opamp  design  with  the  single  ended output
 ======
-* Implemented Op-Amp based Beta - multiplier BGR Circuit in 180nm technology node using Cadence Virtuoso
+* Designed a single ended folded cascode opamp with VDD= 1.8V, Gain= 92dB, CMRR = 100dB, ICMR = 0.2-0.4V, Voltage Swing = 0.5V,PSRR+ = 80dB, PSRR- = 80dB, Power =   20uW, and GBW = 1MHz.Design was carried out in SCL 180nm Technology Node
+
+Gm-Cc Low Pass Filter Design
+======
+* Designed a single ended folded cascode opamp with VDD= 1.8V, Gain= 92dB, CMRR = 100dB, ICMR = 0.2-0.4V, Voltage Swing = 0.5V,PSRR+ = 80dB, PSRR- = 80dB, Power = 20uW, and GBW = 1MHz.Design was carried out inSCL 180nmTechnology Node.
+
+Single  stage  Folded-cascode  Opamp  design  with  the  single  ended output
+======
+* Designed a single ended folded cascode opamp with VDD= 1.8V, Gain= 92dB, CMRR = 100dB, ICMR = 0.2-0.4V, Voltage Swing = 0.5V,PSRR+ = 80dB, PSRR- = 80dB, Power =   20uW, and GBW = 1MHz.Design was carried out in SCL 180nm Technology Node
+
+Single  stage  Folded-cascode  Opamp  design  with  the  single  ended output
+======
+* Designed a single ended folded cascode opamp with VDD= 1.8V, Gain= 92dB, CMRR = 100dB, ICMR = 0.2-0.4V, Voltage Swing = 0.5V,PSRR+ = 80dB, PSRR- = 80dB, Power =   20uW, and GBW = 1MHz.Design was carried out in SCL 180nm Technology Node
+
+Single  stage  Folded-cascode  Opamp  design  with  the  single  ended output
+======
+* Designed a single ended folded cascode opamp with VDD= 1.8V, Gain= 92dB, CMRR = 100dB, ICMR = 0.2-0.4V, Voltage Swing = 0.5V,PSRR+ = 80dB, PSRR- = 80dB, Power =   20uW, and GBW = 1MHz.Design was carried out in SCL 180nm Technology Node
+
+Single  stage  Folded-cascode  Opamp  design  with  the  single  ended output
+======
+* Designed a single ended folded cascode opamp with VDD= 1.8V, Gain= 92dB, CMRR = 100dB, ICMR = 0.2-0.4V, Voltage Swing = 0.5V,PSRR+ = 80dB, PSRR- = 80dB, Power =   20uW, and GBW = 1MHz.Design was carried out in SCL 180nm Technology Node
+
 
 Industrial Automation
 ======
