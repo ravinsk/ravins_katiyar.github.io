@@ -12,7 +12,7 @@ I am a Master's Student in VLSI and Microelectronics, Department of Electrical E
 
 Education
 ======
-* **Master's in VLSI Design,** Electrical Engineering from Indian Institute of Technology, Gandhinagar
+* **Master's in VLSI Design,** Electrical Engineering from <a href='https://iitgn.ac.in/'> Indian Institute of Technology, Gandhinagar</a>
 * **Bachelor's in Electronics and Communication Engineering** from <a href='http://www.uietkanpur.com/'> U.I.E.T. C.S.J.M. University, Kanpur, UttarPradesh</a>
 
 Skills
