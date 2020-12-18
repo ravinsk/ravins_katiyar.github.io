@@ -9,40 +9,41 @@ Teaching assistantship
 ======
 
 * Institution: IIT Gandhinagar
-* Course: **Basic Electrical and Electronics**
-* Supervisor: Dr. Naran M Pindoria
+* Course: **Analog Circuit Lab**
+* Supervisor: Prof. Nihar R. Mohapatra
+* Course: **Digital Circuit Lab**
+* Supervisor: Prof. Joycee Mekie
 
 Freelance
 ======
 
-* Organization: Toppr
-* Course: **Arduino** and **Office Applications**
+* Organization: Youtube
+* Course: **Mathmatics**
 * Profile: E-tutor
 
-Tutorship
+Acadimic Expeiences
 ======
 
-* Organization: Drone Society, IIT Gandhinagar
-* Subject: **ROS**, **Image Processing** and **Embedded Systems**
-* Coordinator: Mr. Ajay Kumar Ucheniya
+* Organization: IIT Gandhinagar
+* Subject: Semiconductor Wafer Characterization
 
 Internship
 ======
 
-* Organization: NEEV, IIT Gandhinagar
-* Profile: Summer Intern (Worked in **Office** and **Canva**)
-* Coordinator: Mrs. Soumya Harish
+* Organization: Northern Central Railway Kanpur
+* Profile: Summer Intern (Worked in **Office**)
+* Coordinator: Mrs. A.K. Singh
 
 Mentorship
 ======
 
 * Institution: IIT Gandhinagar
-* Course: **High School Level English**
+* Course: **Mathmatics and physics of class 12th**
 * Profile: Mentor
 
 Membership
 ======
 
-* Organization: Chess Club, BIT Durg
-* Activity: Intra and Inter-College level **Chess** Tournaments
+* Organization: ElectroPuzzle, UIET CSJM University Kanpur 
+* Activity:  Tournament for all diciplane
 * Profile: Organizer
