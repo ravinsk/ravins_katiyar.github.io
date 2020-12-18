@@ -1,20 +1,17 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Class 12"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "A.P.V.N.I. College "
+date: 201-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I had taught Physics and mathmatics for class 12 for a duration of 2 month
 
-Heading 1
+Mathmatics: Co-ordinate geometry, Calculus, Algebra
 ======
 
-Heading 2
-======
-
-Heading 3
+Physics: Electrodynamics and Wave theory
 ======
