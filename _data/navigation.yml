@@ -2,7 +2,7 @@
 # main links
 main:
   - title: "Educations"
-    url: /public
+    url: /public/
     
   - title: "Publications"
     url: /public/
