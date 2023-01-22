@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's Student in VLSI and Microelectronics, Department of Electrical Engineering at <a href='http://sites.iitgn.ac.in/labs/nanodc/index.php'> nanoDC Lab</a> Lab, IIT Gandhinagar working under <a href='https://iitgn.ac.in/faculty/ee/fac-nihar'>Prof. Nihar R. Mohapatra</a>. I am currently working in the field of Process Integration of semiconductor devices and doing semiconductor device layouts
+Hi,
+This is Ravins katiyar a Senior Engineer in Design Enablement at <a href='https://gf.com/'> GLOBALFOUNDRIES </a>, I have been working here from June 2022, on bitcells and SLMs  development for different technology like 28SLPe, 28SLPe-ESF3, 22FDX, 12FDX, and etc. I have worked on SRAM, MRAM bitcell and DUTs like BLCAP, WLCAP, IDDQ, IDDQ_long, etc. I had also worked as Intern in GLOBALFOUNDRIES in Yeild team, there I was responsible for LOT disposition for 14LPP, and root cause analysis for any shift and drift in the baseline process, along with that I have also worked on DRR, MRB's. 
+
+I have completed my masters from IIT Gandhinagar under the supervision of <a href='https://iitgn.ac.in/faculty/ee/fac-nihar'>Prof. Nihar R. Mohapatra</a> with CGPA of 8.6/10. from september 2021 to may 2022, I have worked as JRF in IIT Gandhinagar and worked on WAFER CHARACTERIZATION and one colloabrative project with IIT Madras and Semiconductor Laboratory Chandigarh.
 
 Education
 ======
@@ -17,7 +20,7 @@ Education
 
 Skills
 ======
-* **Tools:** Cadence Virtuoso, Calibre, QuestaSim, Design Compiler, Innovus, Xilinx Vivado, Sentaurus TCAD, Sentaurus 3D TCAD, MATLAB Simulink, 
+* **Tools:** Cadence Virtuoso, Calibre, QuestaSim, Design Compiler, Innovus, Xilinx Vivado, Sentaurus TCAD, Sentaurus 3DTCAD, MATLAB Simulink, 
 * **Programming/Scripting Languages:** Verilog, VHDL, SystemVerilog, SKILL, C, Python, Ocean, Pcell
 
 Courses Done
@@ -32,4 +35,5 @@ Courses Done
 * IC Design Lab
 * Microelectronics Lab
 * Advanced numerical methods
+* Statistical Process control
 * <a href= 'https://nanohub.org/members/287190/courses'> Online Courses </a> 
