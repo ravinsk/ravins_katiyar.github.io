@@ -16,5 +16,6 @@ Certifications
 Achievements
 ======
 
+* Best Paper Award in ICEE 2022
 * 59 rank in Indian Engineering Olympiad
 * University Scholarship holder
